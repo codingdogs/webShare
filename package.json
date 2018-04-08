@@ -1,0 +1,19 @@
+{
+  "name": "webshare",
+  "version": "0.10",
+  "description": "a javascript plug for webApp share",
+  "main": "share.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingdogs/webShare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingdogs/webShare/issues"
+  },
+  "homepage": "https://github.com/codingdogs/webShare#readme"
+}
