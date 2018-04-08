@@ -1,0 +1,22 @@
+{
+  "name": "webShare",
+  "homepage": "https://github.com/codingdogs/webShare",
+  "authors": [
+    "严浩韦 <704175885@qq.com>"
+  ],
+  "description": "a javascript plug for webApp",
+  "main": "share.js",
+  "keywords": [
+    "share",
+    "nativeShare"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
